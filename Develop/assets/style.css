@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2f2f2f;
+    color: #89c2ff;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #98ffbc;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+input {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(83, 83, 83);
+    color: #ff7eb6;
+}
+
+button {
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #ff7eb6;
+    color: #000000;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+#search-history {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#search-history button {
+    margin: 5px;
+    padding: 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #c39aff;
+    color: #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#current-weather {
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(43, 43, 43);
+    color: #ff7eb6;
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+#forecast {
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+h2 {
+    color: rgb(0, 142, 142);
+}
+
